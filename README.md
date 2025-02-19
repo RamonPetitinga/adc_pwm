@@ -8,7 +8,7 @@ Este projeto implementa a leitura de um joystick analógico utilizando o convers
 
 O vídeo com a execução da simulação pode ser acessado em: https://youtu.be/TjWhrndvuvA
 
-## PARA FUNCIONAR NA BITDOGLAB É NECESSARIO FAZER ALGUMAS ALTERAÇÕES NO CODIGO.
+## PARA FUNCIONAR NA BITDOGLAB É NECESSARIO FAZER ALGUMAS ALTERAÇÕES NO CÓDIGO.
 
 O código está funcionando perfeitamente no simulador wokwi e a BitDogLab possui o 'x' e o 'y' do Joystick invertido. Caso queira implementar o codigo na BitDogLab é só fazer essas inversões e deixar da seguinte forma:
 
