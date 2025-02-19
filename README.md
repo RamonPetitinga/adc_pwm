@@ -25,7 +25,7 @@ O código está funcionando perfeitamente no simulador wokwi e a BitDogLab possu
     146 uint8_t pos_x = (adc_x * (WIDTH - 8)) / 4095;
 
 
-    Com isso irá funcionar perfeitamente, caso voce queria implementar em uma BitDogLab. OBS:. Essas imagens tambem estão presentes na pasta BitDogLab do repositório.
+    Com isso irá funcionar perfeitamente, caso voce queria implementar em uma BitDogLab.
 
 ## 🎯 Objetivos
 
